@@ -1,6 +1,6 @@
 # App Working
 
- Go to "images/appworking.gif" to see how the app works
+ check out "images/appworking.gif" to see how the app works
 
 ### 1.Welcome
 
